@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# private data
+/private_key.json
+/test.json
+./prime-micron-245511-6fafb8964a59.json
