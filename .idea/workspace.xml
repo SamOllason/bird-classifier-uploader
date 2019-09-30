@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972a4518-0226-41cf-bc5f-cfbc735eb2fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-micron-245511-6fafb8964a59.json" beforeDir="false" afterPath="$PROJECT_DIR$/private_key.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prior_park.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +69,7 @@
       <workItem from="1569589566781" duration="3358000" />
       <workItem from="1569836397557" duration="7399000" />
       <workItem from="1569848093894" duration="812000" />
+      <workItem from="1569849270462" duration="132000" />
     </task>
     <servers />
   </component>
